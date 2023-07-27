@@ -2,6 +2,7 @@
 
 
 <h2>Description</h2>
+
 In this activity, I was asked to assess the access controls used by a business after going through the following scenario:
 
 You’re the first cybersecurity professional hired by a growing business.
